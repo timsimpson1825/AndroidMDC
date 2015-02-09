@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidMDC</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_lp_inquiry">LpInquiry</string>
+    <string name="title_activity_lp_receiving">LpReceivingActivity</string>
+    <string name="title_activity_option">OptionActivity</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_hvt_menu">HvtMenuActivity</string>
+
+</resources>
